@@ -5,6 +5,6 @@ Similar to MS Paint, a user can do a freehand drawing, use an eraser, set transp
 <br>
 ### Snapshots
 <br>
-![Text Snapshot](/ipaint/src/main/resources/Sample1.JPG?raw=true "Title")
+![Text Snapshot](/ipaint/src/main/resources/Sample1.JPG)
 
 
