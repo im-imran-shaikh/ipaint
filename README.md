@@ -5,5 +5,6 @@ Similar to MS Paint, a user can do a freehand drawing, use an eraser, set transp
 <br>
 ### Snapshots
 <br>
-![Alt text](./src/main/resources/Sample1.JPG?raw=true "Title")
-![GitHub Logo](/images/logo.png)
+![Text Snapshot](/ipaint/src/main/resources/Sample1.JPG?raw=true "Title")
+
+
