@@ -5,6 +5,6 @@ Similar to MS Paint, a user can do a freehand drawing, use an eraser, set transp
 <br>
 ### Snapshots
 <br>
-<img align="left" alt="Snapshot" width="22px" src="https://github.com/iqbal-shaikh/ipaint/tree/main/src/main/resources/Sample1.JPG" />
+<img align="left" alt="Snapshot" width="220px" src="https://github.com/iqbal-shaikh/ipaint/tree/main/src/main/resources/Sample1.JPG" />
 
 
