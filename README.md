@@ -7,6 +7,6 @@ Similar to MS Paint, a user can do a freehand drawing, use an eraser, set transp
 <br>
 <img align="left" alt="Snapshot" width="220px" src="https://github.com/iqbal-shaikh/ipaint/tree/main/src/main/resources/Sample1.JPG" />
 <br>
-![Alt text](../src/main/resources/Sample1.JPG?raw=true)
+![Alt text](../src/main/resources/Sample1.JPG?)
 
 
